@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IndiaFW
 - 👀 I’m interested in stroke, neuroimaging, & machine learning in neuroscience.
-- 🌱 I’m currently learning about everything AI! 
+- 🌱 I’m currently learning about everything AI and computational neuroscience! 
 - 📫 How to reach me; skgtifw@ucl.ac.uk
 
 <!---
