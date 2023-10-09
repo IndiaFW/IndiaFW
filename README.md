@@ -2,7 +2,7 @@
 - 👀 I’m interested in stroke, neuroimaging, & machine learning in neuroscience.
 - 👀 I also have a keen interest in space :)
 - 🌱 I’m currently learning about everything AI and computational neuroscience! 
-- 📫 How to reach me; indiawalford@hotmail.co.uk
+- 📫 How to reach me; indiawalford@proton.me
 
 <!---
 IndiaFW/IndiaFW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
